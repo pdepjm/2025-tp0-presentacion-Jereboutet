@@ -9,7 +9,8 @@
 - Si bien no soy un fanático, la programación me resulta interesante y es parte de mi formación profesional.
 - Soy Hincha de River, fanático de Lionel Messi y mi artista favorito es Bad Bunny. Dejo por aca abajo mi top 3 de canciones favoritas:
 
-1. DTMF
-2. Nadie sabe                        
+1. Un ratito
+2. Nadie sabe
 3. Un verano sin ti
 
+<img src="https://github.com/pdepjm/2025-tp0-presentacion-Jereboutet/blob/d41ad449769a2eb62fae44eb0d6a6a48164c82c4/portada%20bad.jpg" alt="Imagen portada" width="200"/> 
