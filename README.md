@@ -2,13 +2,7 @@
 ### Boutet Jeremias 
 ### Legajo: 208.705-4
 
-
-
-
-
-
-
-
+![Mi foto](foto mia.jpeg)
 
 ## Voy a dar algo de informacion sobre mi: 
 - Soy jugador y entrenador de hockey en el Club Ciudad de Buenos Aires. Actualmente, estudio Ingeniería en Sistemas en la UTN. Me apasiona el deporte, disfruto ir al gimnasio y siempre busco seguir aprendiendo.
